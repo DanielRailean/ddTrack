@@ -12,8 +12,12 @@ code {
 /* font-family: 'Raleway', sans-serif; */
 .container{
   font-family: 'Dosis', sans-serif;
+  text-align: center;
 }
 .navbar{
   border-bottom-left-radius: 1em;
   border-bottom-right-radius: 1em;
+}
+.navbar-brand{
+  text-align: center;
 }
