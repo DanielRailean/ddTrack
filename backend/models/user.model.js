@@ -9,8 +9,7 @@ const userSchema = new Schema({
     unique:true,
     trim:true,
     minlength : 2
-    },
-}, {
+  },
   timestamps: true,
 });
 
