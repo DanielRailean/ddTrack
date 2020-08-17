@@ -1,1 +1,2 @@
-web: (cd backend && node server.js) & (npm start)
+web: npm start
+database: cd backend && node server.js
